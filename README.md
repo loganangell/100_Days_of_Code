@@ -44,8 +44,10 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 
 ## Connect with Me
 
-I am open to collaberation and feedback. Please feel free to connect with me!
-[🔗 LinkedIn](www.linkedin.com/in/logan-angell)
-[📈 Kaggle](https://www.kaggle.com/loganangell)
-[💻 GitHub](https://github.com/loganangell)
-[👾 Discord](https://discord.com/users/1358605266588795001)
+I am open to collaberation and feedback. Please feel free to connect with me! <br>
+* [👾 Discord](https://discord.com/users/1358605266588795001)
+* [💻 GitHub](https://github.com/loganangell)<br>
+* [📈 Kaggle](https://www.kaggle.com/loganangell)<br>
+* [🔗 LinkedIn](www.linkedin.com/in/logan-angell) <br>
+
+
