@@ -41,3 +41,11 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | Day | Project | Skill Focus | Status |
 | :---: | :------- | :----------- | :------: |
 | 1 | Salary Analysis | Python, API, Pandas, Visualization | ✅ |
+
+## Connect with Me
+
+I am open to collaberation and feedback. Please feel free to connect with me!
+[🔗 LinkedIn](www.linkedin.com/in/logan-angell)
+[📈 Kaggle](https://www.kaggle.com/loganangell)
+[💻 GitHub](https://github.com/loganangell)
+[👾 Discord](https://discord.com/users/1358605266588795001)
