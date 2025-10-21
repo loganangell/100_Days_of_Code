@@ -36,7 +36,7 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | Environment | VSCode and Juypter Notebook |
 | Version Control | Git and GitHub |
 
-# Progress Tracker
+## Progress Tracker
 
 | Day | Project | Skill Focus | Status |
 | --- | ------- | ----------- | ------ |
