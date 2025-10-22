@@ -41,6 +41,8 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | Day | Project | Skill Focus | Status |
 | :---: | :------- | :----------- | :------: |
 | 1 | Salary Analysis | Python, API, Pandas, Visualization | ✅ |
+| 2 | Loan Payment Calculator| Python | ✅ |
+| 3 | Hotel KPI Calculator | Python | ✅ |
 
 ## Connect with Me
 
