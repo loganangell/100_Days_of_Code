@@ -44,7 +44,8 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 2 | Loan Payment Calculator| Python | ✅ |
 | 3 | Hotel KPI Calculator | Python | ✅ |
 | 4 | Video Game Dataset Cleaning | Python, Pandas | ✅ |
-| 5 to 7 | To be delayed due to taking time for anniversery trip |
+| 5 to 7 | Delayed due to taking time for anniversery trip |
+| 5 | Ranking Data Salaries | SQL, PostgreSQL, VScode | ✅
 
 ## Connect with Me
 

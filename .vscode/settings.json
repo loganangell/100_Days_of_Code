@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "datajobs_2025",
+            "database": "sql_course_2025_dataset",
+            "username": "postgres"
+        }
+    ]
+}

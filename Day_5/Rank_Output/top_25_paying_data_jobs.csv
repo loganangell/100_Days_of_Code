@@ -1,0 +1,26 @@
+salary_rank,job_id,company_name,job_posting_source,job_category,job_title,average_yearly_salary_$,year_posted
+1,1574285,Netflix,ShowbizJobs,Data Scientist,"Data Scientist , Games [Remote]",680000,2025
+2,1335282,Netflix,Taro,Data Scientist,Data Science Manager - Engineering,640000,2025
+3,1558080,Netflix,Rise - Rise - Jobs,Data Scientist,Data Scientist (L5) - Netflix Preview Club,445000,2025
+3,1283788,Netflix,LinkedIn,Data Analyst,Analytics Engineer (L5) - Live Quality of Experience,445000,2025
+3,1289958,Netflix,Taro,Data Engineer,Data Engineer (L5),445000,2025
+3,1578513,Netflix,ShowbizJobs,Data Engineer,Data Engineer - Commerce Product Data Engineering [Remote],445000,2025
+3,1598650,Netflix,Indeed,Data Analyst,Analytics Engineer - Playback Data (L5),445000,2025
+3,1564686,Netflix,LinkedIn,Data Engineer,Data Engineer (L4) - Security,445000,2025
+3,1610938,Netflix,ShowbizJobs,Data Engineer,Data Engineer - Content Production & Promotion [Remote],445000,2025
+10,1360095,ByteDance,Outscal.com,Data Engineer,Tech Lead Data Engineer,410000,2025
+10,1472821,Netflix,Taro,Data Engineer,"Privacy Engineer (L4), Data Protection",410000,2025
+12,1515084,Dow Jones,Built In Colorado,Data Engineer,"VP, Engineering, Data & AI",377500,2025
+13,1371863,Eleven Recruiting,LinkedIn,Data Engineer,Head of Data Engineering,350000,2025
+13,1521512,Moonvalley,LinkedIn,Data Engineer,AI Data Engineering Lead,350000,2025
+15,1594668,Meta,WhatJobs,Data Scientist,Data Science Director,337500,2025
+16,1317804,ByteDance,Aijobs.net,Data Engineer,Tech Lead Data Engineer (Multiple Positions),321979,2025
+17,1585249,Cisco,LinkedIn,Data Engineer,Distinguished Data and Analytics Engineer,315500,2025
+17,1618147,NetApp,LinkedIn,Data Analyst,Data Infrastructure Insights Sales,315500,2025
+19,1343623,OpenAI,LinkedIn,Data Scientist,"Data Scientist, User Operations",315000,2025
+20,1326877,Meta,ZipRecruiter,Data Engineer,Data Engineering Manager,314657,2025
+21,1441930,LinkedIn,ZipRecruiter,Data Scientist,"Distinguished Data Scientist, ML/AI",314000,2025
+22,1352689,Saragossa,LinkedIn,Data Engineer,Data Engineer  -Abu Dhabi Hedge Fund,300000,2025
+22,1577941,Tenstorrent Inc.,Built In Toronto,Data Engineer,"Sr. Data Engineer, Data Engineering",300000,2025
+24,1499807,Bill.com,Dice,Data Engineer,Director of Engineering - Data Platform,296000,2025
+25,1528702,Harnham,LinkedIn,Data Scientist,"Managing Director, AI & Product",287500,2025
