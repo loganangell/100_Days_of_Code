@@ -59,7 +59,7 @@ LIMIT 25;
 ```
 ### Top 25 Data Jobs based on Salary
 
-Refer to the [executed output](Day_5/SQL_Unexpected_Result/SQL_Unexpected_Result.csv) for the top 25 paying data jobs in 2025. 
+Refer to the [executed output](https://github.com/loganangell/100_Days_of_Code/blob/main/Day_5/Rank_Output/top_25_paying_data_jobs.csv) for the top 25 paying data jobs in 2025. 
 
 For the project, the following information was noted:
 * The top 25 salaries derived from various well-known companies such as:
@@ -103,7 +103,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 25;
 ```
-The output of the above query can be found in the [SQL_Unexpected_Result](Day_5\SQL_Unexpected_Result\SQL_Unexpected_Result.csv) folder. From evaluating the executed query, I noticed that Netflix's 'Privacy Engineer (L4), Data Protection' job was posted multiple times in Taro (although each instance had its own unique job ID). Out of caution and careful consideration, I have decided to develop a subquery that gives me unique job names to ensure no possible duplications are included in the results.
+The output of the above query can be found in the [SQL_Unexpected_Result](https://github.com/loganangell/100_Days_of_Code/blob/main/Day_5/SQL_Unexpected_Result/SQL_Unexpected_Result.csv) folder. From evaluating the executed query, I noticed that Netflix's 'Privacy Engineer (L4), Data Protection' job was posted multiple times in Taro (although each instance had its own unique job ID). Out of caution and careful consideration, I have decided to develop a subquery that gives me unique job names to ensure no possible duplications are included in the results.
 
 ## Conclusion
 
