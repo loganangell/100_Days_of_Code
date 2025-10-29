@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Data professionals are in high demand, according to the [Bureau of Labor Statistics](https://www.bls.gov/ooh/fastest-growing.htm). Organizations need data professionals to help make data-driven decisions, improve operations, and remain competitive. Industries that are typically competitive (technology, finance, hospitality, etc.) require strong, analytical minds to efficiently request data for powerful insights, and when there is high demand, there are lucrative compensation packages.
+Data professionals are in high demand, according to the [Bureau of Labor Statistics](https://www.bls.gov/ooh/fastest-growing.htm). Organizations require data professionals to inform data-driven decisions, enhance operations, and maintain competitiveness. Industries that are typically competitive (technology, finance, hospitality, etc.) require strong, analytical minds to efficiently request data for powerful insights. When there is high demand, there are lucrative compensation packages.
 
 ## Background
 
-This project will take a dataset provided from [Luke Barousse's 'SQL For Data Analytics' course](https://www.lukebarousse.com/), which provides the top ten paying companies based on average salary as well as provided the minimum and maximum salaries for the specific company.
+This project will take a dataset provided from [Luke Barousse's 'SQL For Data Analytics' course](https://www.lukebarousse.com/), which provides the top ten paying companies based on average salary, as well as provides the minimum and maximum salaries for the specific company.
 
 ## Tools I Used
 
@@ -71,17 +71,17 @@ ORDER BY avg_salary_rank, company_name;
 ```
 ### Top 10 companies based on pay
 
-Refer to the [executed output](https://github.com/loganangell/100_Days_of_Code/blob/main/Day_5/Rank_Output/top_25_paying_data_jobs.csv) for the top 10 paying companies in 2025. 
+Refer to the [executed output](https://github.com/loganangell/100_Days_of_Code/blob/main/Day_6/company_salaries.csv) for the top 10 paying companies in 2025. 
 
 For the project, the following information was noted:
-* The top 10 salaries derived from various well-known companies such as:
+* The top 10 salaries derived from various well-known companies, such as:
     * Netflix
     * Dow Jones
     * OpenAI
     * ByteDance
     * and more
 * Netflix, as of their 2025 job postings, reported the highest average salary postings for all their job postings at $428,375
-    * Also, they appear to have the longest range of salaries from $106,000 to $680,000
+    * Also, they appear to have the longest range of salaries, from $106,000 to $680,000
 * Dow Jones appears to have the next highest average salary at $377,500
 * Other companies in the top 10 have average salaries above $267,500
 
