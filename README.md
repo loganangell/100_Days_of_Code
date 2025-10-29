@@ -3,9 +3,9 @@
 ## Introduction
 This repository documents my 100 Days of Coding Journey - a self-driven initiative to strengthen and expand my programming and data skills.
 
-This challenge is a personal commitment for continuious learning and skill improvement. Each project represents a small step towards mastering my journey in data storytelling - transforming raw data into valuable insights. 
+This challenge is a personal commitment to continuous learning and skill improvement. Each project represents a small step towards mastering my journey in data storytelling - transforming raw data into valuable insights. 
 
-By sharing this project publically, I aim to: 
+By sharing this project publicly, I aim to: 
 
 * Stay accountable for ongoing personal growth and improvement
 * Contribute to the data community through open learning
@@ -21,9 +21,9 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 ## Objectives
 * Reinforce and refine my fundamental skills with Python and SQL
 * Explore real-world datasets to practice data cleaning, visualizations, and storytelling
-* Building my skills and improving confidence in machine learning workflow with hands on experiences
+* Building my skills and improving confidence in machine learning workflow with hands-on experiences
 * Maintain constant learning habits and showcase my progress
-* Share projects to inspire other professionals that want to learn data skills or struggle to improve their skills
+* Share projects to inspire other professionals who want to learn data skills or struggle to improve their skills
 
 ## Tools and Technologies Expected to Utilize
 
@@ -33,7 +33,7 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | Libraries | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and others|
 | Data Sources| Kaggle, data.gov, and others|
 | Database | PostgreSQL and Microsoft SQL Server |
-| Environment | VSCode and Juypter Notebook |
+| Environment | VSCode and Jupyter Notebook |
 | Version Control | Git and GitHub |
 
 ## Progress Tracker
@@ -44,12 +44,12 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 2 | Loan Payment Calculator| Python | ✅ |
 | 3 | Hotel KPI Calculator | Python | ✅ |
 | 4 | Video Game Dataset Cleaning | Python, Pandas | ✅ |
-| 5 to 7 | Delayed due to taking time for anniversery trip |
+| 3-Day Break| Journal delay due to taking time for anniversary trip |
 | 5 | Ranking Data Salaries | SQL, PostgreSQL, VScode | ✅
 
 ## Connect with Me
 
-I am open to collaberation and feedback. Please feel free to connect with me! <br>
+I am open to collaboration and feedback. Please feel free to connect with me! <br>
 * [👾 Discord](https://discord.com/users/1358605266588795001)
 * [💻 GitHub](https://github.com/loganangell)<br>
 * [📈 Kaggle](https://www.kaggle.com/loganangell)<br>
