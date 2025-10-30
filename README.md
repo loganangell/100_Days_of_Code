@@ -44,7 +44,7 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 2 | Loan Payment Calculator| Python | ✅ |
 | 3 | Hotel KPI Calculator | Python | ✅ |
 | 4 | Video Game Dataset Cleaning | Python, Pandas | ✅ |
-| 3-Day Break| Journal delay due to taking time for anniversary trip |
+| 3-Day Break| Journal delay due to taking time for anniversary trip | ✈️ |
 | 5 | Ranking Data Salaries | SQL, PostgreSQL, VScode | ✅ |
 | 6 | Ranking Highest Paying Companies for Data Jobs | SQL, PostgreSQL, VScode | ✅ |
 | 7 | Password Generation Tool | Python | ✅ |
