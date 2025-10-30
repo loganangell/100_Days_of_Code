@@ -47,6 +47,7 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 3-Day Break| Journal delay due to taking time for anniversary trip |
 | 5 | Ranking Data Salaries | SQL, PostgreSQL, VScode | ✅ |
 | 6 | Ranking Highest Paying Companies for Data Jobs | SQL, PostgreSQL, VScode | ✅ |
+| 7 | Password Generation Tool | Python | ✅ |
 
 ## Connect with Me
 
