@@ -21,7 +21,7 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 ## Objectives
 * Reinforce and refine my fundamental skills with Python and SQL
 * Explore real-world datasets to practice data cleaning, visualizations, and storytelling
-* Building my skills and improving confidence in machine learning workflow with hands-on experiences
+* Building my skills and improving confidence in the machine learning workflow with hands-on experiences
 * Maintain constant learning habits and showcase my progress
 * Share projects to inspire other professionals who want to learn data skills or struggle to improve their skills
 
@@ -45,7 +45,8 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 3 | Hotel KPI Calculator | Python | ✅ |
 | 4 | Video Game Dataset Cleaning | Python, Pandas | ✅ |
 | 3-Day Break| Journal delay due to taking time for anniversary trip |
-| 5 | Ranking Data Salaries | SQL, PostgreSQL, VScode | ✅
+| 5 | Ranking Data Salaries | SQL, PostgreSQL, VScode | ✅ |
+| 6 | Ranking Highest Paying Companies for Data Jobs | SQL, PostgreSQL, VScode | ✅ |
 
 ## Connect with Me
 
