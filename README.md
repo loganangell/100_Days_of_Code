@@ -48,6 +48,7 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 5 | Ranking Data Salaries | SQL, PostgreSQL, VScode | ✅ |
 | 6 | Ranking Highest Paying Companies for Data Jobs | SQL, PostgreSQL, VScode | ✅ |
 | 7 | Password Generation Tool | Python | ✅ |
+| 1-Day Break | Personal obligations | 🏠 |
 
 ## Connect with Me
 
