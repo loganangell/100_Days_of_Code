@@ -49,6 +49,7 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 6 | Ranking Highest Paying Companies for Data Jobs | SQL, PostgreSQL, VScode | ✅ |
 | 7 | Password Generation Tool | Python | ✅ |
 | 2-Day Break | Personal obligations | 🏠 |
+| 8 | Lottery Winnings Calculator | Python | ✅ |
 
 ## Connect with Me
 
