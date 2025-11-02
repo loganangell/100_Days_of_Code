@@ -1,4 +1,4 @@
-# 100 Day Coding Challenge - Day 1: Salary Data Analysis
+# 100 Day Coding Challenge - Day 7: Password Generator
 
 ## Introduction
 While creating a new account today, I realized I needed a strong, unique password to avoid reusing the same one across multiple platforms—a common habit that increases the risk of hackers accessing multiple accounts. Online platforms have tools to create unique, random passwords that can be used. However, these online sources may track a user’s data or retain logs which could potentially compromise the security of the passwords generated. To address this concern, I decided to develop a local password generator which gives me full control over the passwords I create.
