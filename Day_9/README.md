@@ -6,12 +6,12 @@ Refer to the ['Packer_Dashboard'](https://github.com/loganangell/Packer_Dashboar
 
 ### The end goal of this project is to:
 1. Learn how to request data from HTML sources
-2. Create a code that a user can use to request range of seasons' data for a specific NFL team
-3. The code will take the data, place it in a data frame, and then converted to a saved CSV file
-4. I will then create a dashboard in Power BI that will give a stakeholder information about various statistics about the requested team.
+2. Create a code that a user can use to request a range of seasons' data for a specific NFL team
+3. The code will take the data, place it in a data frame, and then convert it to a saved CSV file
+4. I will then create a dashboard in Power BI that will give stakeholders information about various statistics for the requested team.
 5. For this project, we will request 2015-2024 NFL team data from the Green Bay Packers and their opponents
 
 ### Today, I have developed the following:
 1. Created a code that requests data for a specific team from PFP (Green Bay Packers)
-2. Created a config files that helps with manipulating the data to give me opponents' conferences and divisions as well as their PFP abbreviations
-3. Created input variables as well as validate the requests for error handling
+2. Created a config file that helps with manipulating the data to give me opponents' conferences and divisions, as well as their PFP abbreviations
+3. Created input variables as well as validated the requests for error handling
