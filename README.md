@@ -50,6 +50,7 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 7 | Password Generation Tool | Python | ✅ |
 | 2-Day Break | Personal obligations | 🏠 |
 | 8 | Lottery Winnings Calculator | Python | ✅ |
+| 2-Day Break | Took a break due to illness | 🤒 |
 
 ## Connect with Me
 
