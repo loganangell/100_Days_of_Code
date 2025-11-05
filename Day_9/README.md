@@ -2,7 +2,7 @@
 
 Today, I decided to take what I have learned so far in Python and create a program that will request data from Pro Football Reference (PFP) and create a data frame of the requested data for a specific NFL team's gamelogs.
 
-Refer to the !['Packer_Dashboard'](https://github.com/loganangell/Packer_Dashboard) repository for the project.
+Refer to the ['Packer_Dashboard'](https://github.com/loganangell/Packer_Dashboard) repository for the project.
 
 The end goal of this project is to:
 1. Learn how to request data from HTML sources
