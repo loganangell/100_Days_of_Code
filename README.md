@@ -51,6 +51,8 @@ Over the next 100 days, I will complete small, focused projects designed to rein
 | 2-Day Break | Personal obligations | 🏠 |
 | 8 | Lottery Winnings Calculator | Python | ✅ |
 | 2-Day Break | Took a break due to illness | 🤒 |
+| 9 - 10| Project Dashboard | 📃 |
+| Temp Postponement | Due to pursuing other Projects |
 
 ## Connect with Me
 
